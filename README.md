@@ -1,36 +1,80 @@
-# Actividad-De-Aprendizaje
+# 🚀 Actividad de Aprendizaje - GitHub Actions
 
+![GitHub repo size](https://img.shields.io/github/repo-size/brayanperdomoo/Backend-deploy)
+![GitHub last commit](https://img.shields.io/github/last-commit/brayanperdomoo/Backend-deploy)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)
+![Status](https://img.shields.io/badge/Estado-Finalizado-brightgreen)
 
-📌 Contenido del Proyecto
-⚙️ 1. Ejemplos de Deploy de APIs Funcionales
+---
 
-Repositorio con múltiples APIs funcionales desplegadas usando GitHub Actions:
-https://github.com/Brayanperdomoo/Backend-deploy
+## 📌 Descripción General
 
-📝 2. Informe Escrito (Versión Digital)
+Este proyecto tiene como objetivo aplicar los conocimientos adquiridos en la **certificación de GitHub Actions**, enfocándose en la automatización de procesos de integración y despliegue continuo (**CI/CD**).
 
-Documento correspondiente al informe realizado a mano, pasado a formato digital:
+A través de este trabajo se implementan flujos de trabajo automatizados que permiten compilar, probar y desplegar APIs funcionales de manera eficiente.
 
+---
 
-🎤 4. Presentación para Sustentación
+## 📂 Contenido del Proyecto
 
+### ⚙️ 1. Deploy de APIs Funcionales
+Repositorio con APIs desarrolladas y desplegadas usando GitHub Actions:
+
+🔗 https://github.com/Brayanperdomoo/Backend-deploy
+
+---
+
+### 📝 2. Informe Escrito (Versión Digital)
+Documento del informe realizado a mano en su versión digital:
+
+🔗 *(Agrega aquí tu enlace del informe)*
+
+---
+
+### 🎤 3. Presentación para Sustentación
 Presentación utilizada para la exposición del proyecto:
-https://gamma.app/docs/Deploy-con-GitHub-Actions-de-una-API-funcional-sb7og6pv0m5xtjg?mode=doc
 
-👨‍💻 Autor
-GitHub: https://github.com/brayanperdomoo
+🔗 https://gamma.app/docs/Deploy-con-GitHub-Actions-de-una-API-funcional-sb7og6pv0m5xtjg?mode=doc
 
-🛠️ Tecnologías Utilizadas
-GitHub Actions
-C#
-APIs REST
-YAML
+---
 
-📖 Descripción General
+## 👨‍💻 Autor
 
-En este proyecto se aplican los conocimientos adquiridos sobre automatización de flujos de trabajo con GitHub Actions, permitiendo:
+**Brayan Perdomo**  
+🔗 https://github.com/brayanperdomoo
 
-Automatizar procesos de integración y despliegue (CI/CD)
-Ejecutar pruebas automáticamente
-Desplegar APIs funcionales
-Gestionar workflows mediante archivos YAML
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- ⚙️ GitHub Actions  
+- 💻 C#  
+- 🌐 APIs REST  
+- 🧾 YAML  
+
+---
+
+## ⚡ Funcionalidades Implementadas
+
+- ✔️ Automatización de despliegues (CI/CD)  
+- ✔️ Ejecución automática de workflows  
+- ✔️ Integración continua de código  
+- ✔️ Configuración de pipelines con YAML  
+- ✔️ Deploy de APIs funcionales  
+
+---
+
+
+## 🎯 Objetivos Alcanzados
+
+- Implementar integración continua (CI)  
+- Automatizar despliegues (CD)  
+- Comprender el uso de workflows en GitHub Actions  
+- Desarrollar APIs funcionales listas para producción  
+
+---
+
+## 📅 Estado del Proyecto
+
+🟢 **Finalizado**  
+📆 Abril 2026  
