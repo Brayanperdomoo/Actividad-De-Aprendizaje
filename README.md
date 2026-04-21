@@ -20,7 +20,7 @@ A través de este trabajo se implementan flujos de trabajo automatizados que per
 ### ⚙️ 1. Deploy de APIs Funcionales
 Repositorio con APIs desarrolladas y desplegadas usando GitHub Actions:
 
-🔗 https://github.com/Brayanperdomoo/Backend-deploy
+🔗 https://github.com/Brayanperdomoo/Deploy-apis.git
 
 ---
 
