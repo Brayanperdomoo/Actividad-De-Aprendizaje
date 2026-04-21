@@ -50,8 +50,12 @@ Presentación utilizada para la exposición del proyecto:
 
 - ⚙️ GitHub Actions  
 - 💻 C#  
+- 🐍 Python  
+- ☕ Java  
+- 🟨 JavaScript  
 - 🌐 APIs REST  
 - 🧾 YAML  
+- 📄 Procfile
 
 ---
 
