@@ -49,7 +49,6 @@ Presentación utilizada para la exposición del proyecto:
 ## 🛠️ Tecnologías Utilizadas
 
 - ⚙️ GitHub Actions  
-- 💻 C#  
 - 🐍 Python  
 - ☕ Java  
 - 🟨 JavaScript  
