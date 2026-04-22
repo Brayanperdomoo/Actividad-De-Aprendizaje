@@ -11,7 +11,7 @@
 
 Este proyecto tiene como objetivo aplicar los conocimientos adquiridos en la **certificación de GitHub Actions**, enfocándose en la automatización de procesos de integración y despliegue continuo (**CI/CD**).
 
-A través de este trabajo se implementan flujos de trabajo automatizados que permiten compilar, probar y desplegar APIs funcionales de manera eficiente.
+A través de este trabajo se implementan flujos de trabajo automatizados que permiten compilar, probar y desplegar APIs funcionales de manera eficiente, junto con la gestión estructurada de una base de datos.
 
 ---
 
@@ -24,15 +24,21 @@ Repositorio con APIs desarrolladas y desplegadas usando GitHub Actions:
 
 ---
 
-### 📝 2. Informe Escrito (Versión Digital)
-Documento del informe realizado a mano en su versión digital:
+### 🗄️ 2. Base de Datos del Proyecto
+Repositorio que contiene la estructura, scripts y configuración de la base de datos utilizada:
 
-🔗 *(Agrega aquí tu enlace del informe)*
-https://drive.google.com/file/d/1y439jg-8LKA3FIHf72EXip_wubAZ21Mw/view?usp=drive_link
+🔗 https://github.com/Brayanperdomoo/Base-de-datos.git
 
 ---
 
-### 🎤 3. Presentación para Sustentación
+### 📝 3. Informe Escrito (Versión Digital)
+Documento del informe realizado a mano en su versión digital:
+
+🔗 https://drive.google.com/file/d/1y439jg-8LKA3FIHf72EXip_wubAZ21Mw/view?usp=drive_link
+
+---
+
+### 🎤 4. Presentación para Sustentación
 Presentación utilizada para la exposición del proyecto:
 
 🔗 https://gamma.app/docs/Deploy-con-GitHub-Actions-de-una-API-funcional-sb7og6pv0m5xtjg?mode=doc
@@ -54,7 +60,8 @@ Presentación utilizada para la exposición del proyecto:
 - 🟨 JavaScript  
 - 🌐 APIs REST  
 - 🧾 YAML  
-- 📄 Procfile
+- 📄 Procfile  
+- 🗄️ Bases de Datos (PostgreSQL)
 
 ---
 
@@ -65,9 +72,9 @@ Presentación utilizada para la exposición del proyecto:
 - ✔️ Integración continua de código  
 - ✔️ Configuración de pipelines con YAML  
 - ✔️ Deploy de APIs funcionales  
+- ✔️ Integración con base de datos  
 
 ---
-
 
 ## 🎯 Objetivos Alcanzados
 
@@ -75,6 +82,7 @@ Presentación utilizada para la exposición del proyecto:
 - Automatizar despliegues (CD)  
 - Comprender el uso de workflows en GitHub Actions  
 - Desarrollar APIs funcionales listas para producción  
+- Gestionar y estructurar bases de datos para aplicaciones  
 
 ---
 
