@@ -31,14 +31,24 @@ Repositorio que contiene la estructura, scripts y configuración de la base de d
 
 ---
 
-### 📝 3. Informe Escrito (Versión Digital)
+### 🎥 3. Videos del Proyecto
+
+📌 **Video tutorial en alta calidad con guion:**  
+🔗 https://youtu.be/ksesE09U2YM  
+
+📌 **Video en alta calidad del deploy con guion:**  
+🔗 https://youtu.be/N-VJwTVT7Lo  
+
+---
+
+### 📝 4. Informe Escrito (Versión Digital)
 Documento del informe realizado a mano en su versión digital:
 
 🔗 https://drive.google.com/file/d/1y439jg-8LKA3FIHf72EXip_wubAZ21Mw/view?usp=drive_link
 
 ---
 
-### 🎤 4. Presentación para Sustentación
+### 🎤 5. Presentación para Sustentación
 Presentación utilizada para la exposición del proyecto:
 
 🔗 https://gamma.app/docs/Deploy-con-GitHub-Actions-de-una-API-funcional-sb7og6pv0m5xtjg?mode=doc
